@@ -1,9 +1,10 @@
-<<<<<<< HEAD
-# Flutter-Nodejs-HSN-App
-=======
-# snapp4
+# Flutter-Nodejs-Heterogenious-Soical-Network-App
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/60351044/208271486-1b426a12-4908-494b-afc9-aa5581327b3c.png)
+
+# Social Network App
+
+Mobile Application
 
 ## Getting Started
 
@@ -17,7 +18,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
->>>>>>> eccddcb (first commit)
 <p float="left">
         <img src="https://user-images.githubusercontent.com/48220392/178951868-14bb5df4-fcf8-4bd4-8440-9c99da89e3b6.jpeg" width="200" height="370" hspace="20" />
         <img src="https://user-images.githubusercontent.com/48220392/178952308-8355b55c-2bac-4f27-80e7-44464c715105.jpeg" width="200" height="370" hspace="20"/>  
