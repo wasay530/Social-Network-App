@@ -1,6 +1,9 @@
 # Flutter-Nodejs-Heterogenious-Soical-Network-App
-
-![image](https://user-images.githubusercontent.com/60351044/208271486-1b426a12-4908-494b-afc9-aa5581327b3c.png)
+* User can directly check the number of followers, following, like, dislike etc. information just by one click from different Social Media
+* Positive and Negative relation of followers, following, comments on videos, and user can improve the contents on those Social Media
+* List up the rankings of the tie strength
+* Friends recommendation from Heterogeneous Social media to user
+* Posting to Heterogeneous SN from a Single UI
 
 # Social Network App
 
